@@ -1,0 +1,8 @@
+{
+  "categories":
+  {
+    "image": ["png", "jpeg", "jpg","gif"],
+    "code": ["py","cpp","html","ts","js","css","json"],
+    "text": ["txt"]
+  }
+}
